@@ -21,9 +21,23 @@
 >
 > 🏫 2022-03-01 ~ Now : **Sungshin w. univ Curriculum for Teaching Profession (Information & Computer)**
 
---
+
+**👩‍💻CS && IT Activity👩‍💻**
+
+>
+>
+>
+>👩‍💻 2022-12 ~ 2023-02 : SSWU NS LAB Winter Undergraduate Research Intern
+>
+>
+
+
+**🏅 Achivement**
+
+> 🏅 2023 2nd [LG AImers hackathon qualifiers](https://dacon.io/competitions/official/236055/overview/description) - **Team MingMingMingMing 17th place** out of a total of 495 teams.
+> 🏅 2023 Sungshin W. Univ. Software Cup - **Project Hi,Sujung-E Congratulations on receiving the silver award!** 
  
-**Club Activity**
+**🔭Club Activity🔭**
 
 >🗨️ 2021-11-01 ~ 2022-11-30: University Joint Presentation Club **PT PEOPLE**
 >
@@ -31,8 +45,10 @@
 >
 >💻 2023-03 ~ 2023-07 : University Joint 4th technology Club **Tave**
 >
->💻 2023-03 ~ 2023-06 : Domitory IT Club **Saturday Night Coding (Club Leader)**
+>💻 2023-03 ~ 2023-06 : Dormitory IT Club **Saturday Night Coding (Club Leader)**
 >
+
+**😎Etc Acivity**
 
 <!--
 ### I'm interested in...
