@@ -1,5 +1,5 @@
 ---
-### Hi there 👋
+# Hi there 👋
 ### This is GaEun's github🐈‍⬛🐈‍⬛
 <img src="https://github.com/seogaeun/seogaeun/assets/22024442/962fb3ea-ae23-4cf3-8260-706d9c182632" alt="미니언즈" width="100%">
 
@@ -10,6 +10,12 @@
 <img src="https://img.shields.io/badge/Banana-000000?style=for-the-badge&logo=gamebanana&logoColor=#FCEF40">
 
 ---
+
+### About me:)
+2021.3.1 ~ : Sungshin w. univ Computer Engineering Major
+2022.3.1 ~ : Sungshin w. univ Department of Mathematical Statistics and Data Science, Fintech Minor
+2022.3.1 ~ : Curriculum for Teaching Profession (Computer and Information)
+
 <!--
 ### I'm interested in...
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/awesomelists-000000?style=for-the-badge&logo=awesomelists&logoColor=white"> <img src="https://img.shields.io/badge/Buger-000000?style=for-the-badge&logo=burgerking&logoColor=white"> <img src="https://img.shields.io/badge/android-000000?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/amazonaws-000000?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/about me-000000?style=for-the-badge&logo=aboutdotme&logoColor=white"> <img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/expo-000000?style=for-the-badge&logo=expo&logoColor=white"> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/flutter-000000?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/aboutdotme-000000?style=for-the-badge&logo=aboutdotme&logoColor=white"> <img src="https://img.shields.io/badge/aboutdotme-000000?style=for-the-badge&logo=aboutdotme&logoColor=white"> <img src="https://img.shields.io/badge/aboutdotme-000000?style=for-the-badge&logo=aboutdotme&logoColor=white"> <img src="https://img.shields.io/badge/buymeacoffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=white"> 
