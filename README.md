@@ -15,7 +15,7 @@
 
 **🏫School && Major🏫**
 
-> 🏫 2021-03-01 ~ Now : **Sungshin w. univ Computer Engineering (Major)**
+> 🏫 2021-03-01 ~ Now : **Sungshin w. univ Department of Computer Engineering (Major)**
 > 
 > 🏫 2022-03-01 ~ Now : **Sungshin w. univ Department of Mathematical Statistics and Data Science, Fintech (Minor)**
 >
@@ -24,10 +24,13 @@
 
 **👩‍💻CS && IT Activity👩‍💻**
 
+>👩‍💻 2022-03-19 ~ 2022-12-19 : **Hanium ICT Mentoring Program** Mantee (Mydata life logging Application project)
 >
+>👩‍💻 2022-08-01 ~ 2022-11-30 : **Data Creator Camp** by K-ICT Big Data Center
 >
+>👩‍💻 2022-12 ~ 2023-02 : **SSWU NS LAB Winter Undergraduate Research Intern**
 >
->👩‍💻 2022-12 ~ 2023-02 : SSWU NS LAB Winter Undergraduate Research Intern
+>👩‍💻 2023-03 ~ 2023-04.17 : **Girls in ICT Hackerton** by LG Ericsson **Team MY SAN**
 >
 >🏛️ 2023-07-17 ~ Now : **Shinhan securities co. Pro Digital Academy**
 
@@ -35,6 +38,7 @@
 **🏅 Achivement**
 
 > 🏅 2023 2nd [LG AImers hackathon qualifiers](https://dacon.io/competitions/official/236055/overview/description) - **Team MingMingMingMing 17th place** out of a total of 495 teams.
+> 
 > 🏅 2023 Sungshin W. Univ. Software Cup - **Project Hi,Sujung-E Congratulations on receiving the silver award!** 
  
 **🔭Club Activity🔭**
@@ -42,6 +46,8 @@
 >🗨️ 2021-11-01 ~ 2022-11-30: University Joint Presentation Club **PT PEOPLE**
 >
 >💻 2022-03-01 ~ 2023-02-01: Computer Engineering Department IT Club **Init**
+>
+>💻 2022-03 ~ 2023-02:  Department of Computer Engineering Student Council Member
 >
 >💻 2023-03 ~ 2023-07 : University Joint 4th technology Club **Tave**
 >
@@ -52,7 +58,11 @@
 
 
 **😎Etc Acivity**
-
+> 😎 2022-08-01: Do It! Algorithm coding test python **Book Beta Testor**
+> 
+> 😎 2022-04-01 ~ Now : **Eunpyeongdaejeon Major Mentoring Program** Mento
+>
+> 😎 **(Comming soon!)** 2024-01 ~ 2024-05 : Scheduled to be an **Exchange student at the University of New Mexico Department of Computer Science, USA** 
 <!--
 ### I'm interested in...
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/awesomelists-000000?style=for-the-badge&logo=awesomelists&logoColor=white"> <img src="https://img.shields.io/badge/Buger-000000?style=for-the-badge&logo=burgerking&logoColor=white"> <img src="https://img.shields.io/badge/android-000000?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/amazonaws-000000?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/about me-000000?style=for-the-badge&logo=aboutdotme&logoColor=white"> <img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/expo-000000?style=for-the-badge&logo=expo&logoColor=white"> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/flutter-000000?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/aboutdotme-000000?style=for-the-badge&logo=aboutdotme&logoColor=white"> <img src="https://img.shields.io/badge/aboutdotme-000000?style=for-the-badge&logo=aboutdotme&logoColor=white"> <img src="https://img.shields.io/badge/aboutdotme-000000?style=for-the-badge&logo=aboutdotme&logoColor=white"> <img src="https://img.shields.io/badge/buymeacoffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=white"> 
