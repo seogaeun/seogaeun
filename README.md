@@ -29,7 +29,7 @@
 >
 >👩‍💻 2022-12 ~ 2023-02 : SSWU NS LAB Winter Undergraduate Research Intern
 >
->
+>🏛️ 2023-07-17 ~ Now : **Shinhan securities co. Pro Digital Academy**
 
 
 **🏅 Achivement**
@@ -47,6 +47,9 @@
 >
 >💻 2023-03 ~ 2023-06 : Dormitory IT Club **Saturday Night Coding (Club Leader)**
 >
+>
+>
+
 
 **😎Etc Acivity**
 
