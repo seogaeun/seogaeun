@@ -43,13 +43,13 @@
  
 **🔭Club Activity🔭**
 
->🗨️ 2021-11-01 ~ 2022-11-30: University Joint Presentation Club **PT PEOPLE 44th**
+>🗨️ 2021-11-01 ~ 2022-11-30: University united Presentation Club **PT PEOPLE 44th**
 >
 >💻 2022-03-01 ~ 2023-02-01: Computer Engineering Department IT Club **Init 2nd**
 >
 >💻 2022-03 ~ 2023-02:  Department of Computer Engineering Student Council Member
 >
->💻 2023-03 ~ 2023-07 : University Joint 4th industrial revolution technology Club **Tave 12nd**
+>💻 2023-03 ~ 2023-07 : University united 4th industrial revolution technology Club **Tave 12nd**
 >
 >💻 2023-03 ~ 2023-06 : Dormitory IT Club **Saturday Night Coding (Club Leader)**
 >
