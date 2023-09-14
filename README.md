@@ -12,11 +12,27 @@
 ---
 
 ### About me:)
-2021.3.1 ~ : Sungshin w. univ Computer Engineering Major
 
-2022.3.1 ~ : Sungshin w. univ Department of Mathematical Statistics and Data Science, Fintech Minor
+**🏫School && Major🏫**
 
-2022.3.1 ~ : Curriculum for Teaching Profession (Computer and Information)
+> 🏫 2021-03-01 ~ Now : **Sungshin w. univ Computer Engineering (Major)**
+> 
+> 🏫 2022-03-01 ~ Now : **Sungshin w. univ Department of Mathematical Statistics and Data Science, Fintech (Minor)**
+>
+> 🏫 2022-03-01 ~ Now : **Sungshin w. univ Curriculum for Teaching Profession (Information & Computer)**
+
+--
+ 
+**Club Activity**
+
+>🗨️ 2021-11-01 ~ 2022-11-30: University Joint Presentation Club **PT PEOPLE**
+>
+>💻 2022-03-01 ~ 2023-02-01: Computer Engineering Department IT Club **Init**
+>
+>💻 2023-03 ~ 2023-07 : University Joint 4th technology Club **Tave**
+>
+>💻 2023-03 ~ 2023-06 : Domitory IT Club **Saturday Night Coding (Club Leader)**
+>
 
 <!--
 ### I'm interested in...
