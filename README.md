@@ -13,7 +13,9 @@
 
 ### About me:)
 2021.3.1 ~ : Sungshin w. univ Computer Engineering Major
+
 2022.3.1 ~ : Sungshin w. univ Department of Mathematical Statistics and Data Science, Fintech Minor
+
 2022.3.1 ~ : Curriculum for Teaching Profession (Computer and Information)
 
 <!--
