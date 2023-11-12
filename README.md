@@ -20,6 +20,8 @@
 > 🏫 2022-03-01 ~ Now : **Sungshin w. univ Department of Mathematical Statistics and Data Science, Fintech (Minor)**
 >
 > 🏫 2022-03-01 ~ Now : **Sungshin w. univ Curriculum for Teaching Profession (Information & Computer)**
+>
+> 🏫 **(Comming soon!)** 2024-01 ~ 2024-05 : Scheduled to be an **Exchange student at the University of New Mexico Department of Computer Science, USA**
 
 
 **👩‍💻CS && IT Activity👩‍💻**
@@ -69,8 +71,7 @@
 > 😎 2022-08-01: Do It! Algorithm coding test python **Book Beta Testor**
 > 
 > 😎 2022-04-01 ~ Now : **Eunpyeongdaejeon Major Mentoring Program** Mento
->
-> 😎 **(Comming soon!)** 2024-01 ~ 2024-05 : Scheduled to be an **Exchange student at the University of New Mexico Department of Computer Science, USA** 
+> 
 <!--
 ### I'm interested in...
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/awesomelists-000000?style=for-the-badge&logo=awesomelists&logoColor=white"> <img src="https://img.shields.io/badge/Buger-000000?style=for-the-badge&logo=burgerking&logoColor=white"> <img src="https://img.shields.io/badge/android-000000?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/amazonaws-000000?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/about me-000000?style=for-the-badge&logo=aboutdotme&logoColor=white"> <img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/expo-000000?style=for-the-badge&logo=expo&logoColor=white"> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/flutter-000000?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/aboutdotme-000000?style=for-the-badge&logo=aboutdotme&logoColor=white"> <img src="https://img.shields.io/badge/aboutdotme-000000?style=for-the-badge&logo=aboutdotme&logoColor=white"> <img src="https://img.shields.io/badge/aboutdotme-000000?style=for-the-badge&logo=aboutdotme&logoColor=white"> <img src="https://img.shields.io/badge/buymeacoffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=white"> 
