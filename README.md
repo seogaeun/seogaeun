@@ -32,7 +32,9 @@
 >
 >👩‍💻 2023-03 ~ 2023-04.17 : **Girls in ICT Hackerton** by LG Ericsson **Team MY SAN**
 >
->🏛️ 2023-07-17 ~ Now : **Shinhan securities co. Pro Digital Academy**
+>🏛️ 2023-07-17 ~ 2023-10-20 : **Shinhan securities co. Pro Digital Academy**
+>
+>🤵‍♀️ 2023-10-22 ~ 2023-11-22: **Shinhan securities co. Interen in Platform Develop Department and Finance System Department**
 
 
 **🏅 Achivement**
