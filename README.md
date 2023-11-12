@@ -24,6 +24,8 @@
 
 **👩‍💻CS && IT Activity👩‍💻**
 
+>
+>
 >👩‍💻 2022-03-19 ~ 2022-12-19 : **Hanium ICT Mentoring Program** Mantee (Mydata life logging Application project)
 >
 >👩‍💻 2022-08-01 ~ 2022-11-30 : **Data Creator Camp** by K-ICT Big Data Center
@@ -33,6 +35,10 @@
 >👩‍💻 2023-03 ~ 2023-04.17 : **Girls in ICT Hackerton** by LG Ericsson **Team MY SAN**
 >
 >🏛️ 2023-07-17 ~ 2023-10-20 : **Shinhan securities co. Pro Digital Academy**
+
+**🤵‍♀️ Work Experience🤵‍♀️**
+
+>🤵‍♀️ 2021-07-19 ~ 2021-08-31: **Now Coding Labs with IT curriculum production**
 >
 >🤵‍♀️ 2023-10-22 ~ 2023-11-22: **Shinhan securities co. Interen in Platform Develop Department and Finance System Department**
 
