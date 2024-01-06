@@ -21,7 +21,7 @@
 >
 > 🏫 2022-03-01 ~ Now : **Sungshin w. univ Curriculum for Teaching Profession (Information & Computer)**
 >
-> 🏫 **(Comming soon!)** 2024-01 ~ 2024-05 : Scheduled to be an **Exchange student at the University of New Mexico Department of Computer Science, USA**
+> 🏫 2024-01 ~ Now : **Exchange student at the University of New Mexico Department of Computer Science, USA**
 
 
 **👩‍💻CS && IT Activity👩‍💻**
