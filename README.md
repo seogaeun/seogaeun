@@ -17,11 +17,9 @@
 
 > 🏫 2021-03-01 ~ Now : **Sungshin w. univ Department of Computer Engineering (Major)**
 > 
-> 🏫 2022-03-01 ~ Now : **Sungshin w. univ Department of Mathematical Statistics and Data Science, Fintech (Minor)**
->
 > 🏫 2022-03-01 ~ Now : **Sungshin w. univ Curriculum for Teaching Profession (Information & Computer)**
 >
-> 🏫 2024-01 ~ Now : **Exchange student at the University of New Mexico Department of Computer Science, USA**
+> 🏫 2024-01 ~ 2024-05 : **Exchange student at the University of New Mexico Department of Computer Science, USA**
 
 
 **👩‍💻CS && IT Activity👩‍💻**
@@ -43,6 +41,10 @@
 >🤵‍♀️ 2021-07-19 ~ 2021-08-31: **Now Coding Labs with IT curriculum production**
 >
 >🤵‍♀️ 2023-10-22 ~ 2023-11-22: **Shinhan securities co. Interen in Platform Develop Department and Finance System Department**
+>
+>🤵‍♀️ 2024-03-11 ~ 2024-05-10: **University of New Mexico Student computer consultant in Information Technologies Department**
+>
+>🤵‍♀️ 2024-07-19 ~ now : **Industrial Bank of Korea(IBK) Intern in IT Financial Development Departmet**
 
 
 **🏅 Achivement**
