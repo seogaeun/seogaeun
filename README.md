@@ -52,7 +52,7 @@
 > 🏅 2023 2nd [LG AImers hackathon qualifiers](https://dacon.io/competitions/official/236055/overview/description) - **Team MingMingMingMing 17th place** out of a total of 495 teams.
 > 
 > 🏅 2023 Sungshin W. Univ. Software Cup - **Project Hi,Sujung-E Congratulations on receiving the silver award!** 
- 
+> 🏅 2024 NH Investment Securities Big Data Competition - ** Honorable Mention**
 **🔭Club Activity🔭**
 
 >🗨️ 2021-11-01 ~ 2022-11-30: University united Presentation Club **PT PEOPLE 44th**
