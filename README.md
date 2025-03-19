@@ -55,6 +55,7 @@
 >
 > 🏅 2024 NH Investment Securities Big Data Competition - **Honorable Mention**
 > 
+> 🏅 2024-2025 DGB Finance Group "It's DGB, I'm Challenger" Final Round Certificate
 **🔭Club Activity🔭**
 
 >🗨️ 2021-11-01 ~ 2022-11-30: University united Presentation Club **PT PEOPLE 44th**
