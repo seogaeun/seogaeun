@@ -52,6 +52,9 @@
 >
 >💻 2023-03 ~ 2023-06 : Dormitory IT Club **Saturday Night Coding (Club Leader)**
 >
+>🗨️ 2024-08 ~ 2025-02 : World Culture Share Club **Jagal Jagal 6th**
+>
+>⚽️ 2025-02 ~ now : Sports club **SnP 30th**
 
 
 **🤵‍♀️ Work Experience🤵‍♀️**
