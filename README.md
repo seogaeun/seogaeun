@@ -15,16 +15,14 @@
 
 **🏫School && Major🏫**
 
-> 🏫 2021-03-01 ~ Now : **Sungshin w. univ Department of Computer Engineering (Major)**
+> 🏫 2021-03-01 ~ 2025-08-21 : **Sungshin w. univ Department of Computer Engineering (Major)**
 > 
-> 🏫 2022-03-01 ~ Now : **Sungshin w. univ Curriculum for Teaching Profession (Information & Computer)**
+> 🏫 2022-03-01 ~ 2025-08-21: **Sungshin w. univ Curriculum for Teaching Profession (Information & Computer(정보컴퓨터 정교사2급))**
 >
 > 🏫 2024-01 ~ 2024-05 : **Exchange student at the University of New Mexico Department of Computer Science, USA**
 
 
 **👩‍💻CS && IT Activity👩‍💻**
-
->
 >
 >👩‍💻 2022-03-19 ~ 2022-12-19 : **Hanium ICT Mentoring Program** Mantee (Mydata life logging Application project)
 >
@@ -34,28 +32,16 @@
 >
 >👩‍💻 2023-03 ~ 2023-04.17 : **Girls in ICT Hackerton** by LG Ericsson **Team MY SAN**
 >
->🏛️ 2023-07-17 ~ 2023-10-20 : **Shinhan securities co. Pro Digital Academy**
-
-**🤵‍♀️ Work Experience🤵‍♀️**
-
->🤵‍♀️ 2021-07-19 ~ 2021-08-31: **Now Coding Labs with IT curriculum production**
+>🏛 2023-07-17 ~ 2023-10-20 : **Shinhan securities co. Pro Digital Academy 2nd**
 >
->🤵‍♀️ 2023-10-22 ~ 2023-11-22: **Shinhan securities co. Interen in Platform Develop Department and Finance System Department**
+>👩‍💻 2024-05 ~ 2024-07-08 : **Hana Digital Power On Project 2nd Round**
 >
->🤵‍♀️ 2024-03-11 ~ 2024-05-10: **University of New Mexico Student computer consultant in Information Technologies Department**
+>👩‍💻 2024-12 ~ 2025-05 : **It's DGB I'm Challenger Final Round**
 >
->🤵‍♀️ 2024-07-19 ~ now : **Industrial Bank of Korea(IBK) Intern in IT Financial Development Departmet**
+>🏛 2025-07-08 ~ now : Samsung Software AI Academy for Youth(SSAFY) 14th
 
 
-**🏅 Achivement**
 
-> 🏅 2023 2nd [LG AImers hackathon qualifiers](https://dacon.io/competitions/official/236055/overview/description) - **Team MingMingMingMing 17th place** out of a total of 495 teams.
-> 
-> 🏅 2023 Sungshin W. Univ. Software Cup - **Project Hi,Sujung-E Congratulations on receiving the silver award!** 
->
-> 🏅 2024 NH Investment Securities Big Data Competition - **Honorable Mention**
-> 
-> 🏅 2024-2025 DGB Finance Group "It's DGB, I'm Challenger" Final Round Certificate
 **🔭Club Activity🔭**
 
 >🗨️ 2021-11-01 ~ 2022-11-30: University united Presentation Club **PT PEOPLE 44th**
@@ -68,14 +54,36 @@
 >
 >💻 2023-03 ~ 2023-06 : Dormitory IT Club **Saturday Night Coding (Club Leader)**
 >
+
+
+**🤵‍♀️ Work Experience🤵‍♀️**
+
+>🤵‍♀️ 2021-07-19 ~ 2021-08-31: **Now Coding Labs with IT curriculum production**
 >
+>🤵‍♀️ 2023-10-22 ~ 2023-11-22: **Shinhan securities co. Interen in Platform Develop Department and Finance System Department**
 >
+>🤵‍♀️ 2024-03-11 ~ 2024-05-10: **University of New Mexico Student computer consultant in Information Technologies Department**
+>
+
+
+
+**🏅 Achivement**
+
+> 🏅 2023 2nd [LG AImers hackathon qualifiers](https://dacon.io/competitions/official/236055/overview/description) - **Team MingMingMingMing 17th place** out of a total of 495 teams.
+> 
+> 🏅 2023 Sungshin W. Univ. Software Cup - **Project Hi,Sujung-E Congratulations on receiving the silver award!** 
+>
+> 🏅 2024 NH Investment Securities Big Data Competition - **Honorable Mention**
+> 
+> 🏅 2024-2025 DGB Finance Group "It's DGB, I'm Challenger" Final Round Certificate
+
+
 
 
 **😎Etc Acivity**
 > 😎 2022-08-01: Do It! Algorithm coding test python **Book Beta Testor**
 > 
-> 😎 2022-04-01 ~ Now : **Eunpyeongdaejeon Major Mentoring Program** Mento
+> 😎 2022-04-01 ~ 2024-12-31 : **Eunpyeongdaejeon Major Mentoring Program** Mento
 > 
 <!--
 ### I'm interested in...
