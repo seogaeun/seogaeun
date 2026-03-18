@@ -1,12 +1,6 @@
 ---
 # Hi there 👋
 ### This is GaEun's github🐈‍⬛🐈‍⬛
-<img src="https://github.com/seogaeun/seogaeun/assets/22024442/962fb3ea-ae23-4cf3-8260-706d9c182632" alt="미니언즈" width="100%">
-
----
-
-<img src="https://img.shields.io/badge/Banana-000000?style=for-the-badge&logo=gamebanana&logoColor=#FCEF40">
-
 ---
 
 ### About me:)
