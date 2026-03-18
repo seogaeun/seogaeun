@@ -71,6 +71,8 @@
 > 🏅 2024 NH Investment Securities Big Data Competition - **Honorable Mention**
 > 
 > 🏅 2024-2025 DGB Finance Group "It's DGB, I'm Challenger" Final Round Certificate
+> 
+> 🏅 2025 Shinhan Bank Hackerthon **2nd place**
 
 
 
